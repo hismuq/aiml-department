@@ -42,7 +42,7 @@ Privacy Preservation: Demonstrating a pipeline where synthetic data can be share
 
 ## 🤖 Model
 - Algorithm: **Segment Anything Model (SAM)**  
-- Accuracy: **~99% (after optimization)**  
+- Accuracy: **~87.4% (after optimization)**  
 
 ---
 
@@ -59,7 +59,7 @@ Privacy Preservation: Demonstrating a pipeline where synthetic data can be share
 
 ## 🚀 Run Project
 ```
-git clone <(https://github.com/muqxt/B.E-Major-Project)>
+git clone <(https://github.com/hismuq/B.E-Major-Project)>
 cd project-folder
 pip install -r requirements.txt
 python main.py
