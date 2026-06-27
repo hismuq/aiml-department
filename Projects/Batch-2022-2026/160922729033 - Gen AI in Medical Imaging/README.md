@@ -57,16 +57,6 @@ Privacy Preservation: Demonstrating a pipeline where synthetic data can be share
 
 ---
 
-## 👥 Team Members
-
-| S.No | Name | Roll Number |
-|-----|------|------------|
-| 1 | Mohd Ismail Iqbal | 160922729017 |
-| 2 | Syed Muqeet Ahmed | 160922729033 |
-| 3 | Syed Nouman Ali | 160922729047 |
-
----
-
 ## 🚀 Run Project
 ```
 git clone <(https://github.com/muqxt/B.E-Major-Project)>
